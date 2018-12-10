@@ -1,0 +1,59 @@
+body{
+     font-size:35px;  
+}
+h1{
+    background-color:red;   
+}
+img{
+    width:350px;   
+}
+body{
+    background-image:url("https://media1.tenor.com/images/3ced764a2cb7ad33ddf2145edb9904ae/tenor.gif?itemid=4320892");   
+ background-repeat: no-repeat;
+     background-size: cover;
+
+}
+body{
+    color:blue;   
+}
+body{
+     text-align:center;
+}
+.button {
+  background-color: #4286f4; /* blue */
+  border: none;
+  color: blue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.Drake{
+    display:flex;
+    justify-content:center;
+    margin:10px;
+    padding:30px;
+}
+img:hover { 
+    border:60px solid;
+    background-color: red;
+    margin:30px;
+    padding:45px;
+    
+}
+img{
+    width:100%;
+}
+.img{
+    width:33%;   
+    margin:30px;
+}
+p:hover { 
+    border:solid;
+    background-color: yellow;
+}
+
+
+
+
